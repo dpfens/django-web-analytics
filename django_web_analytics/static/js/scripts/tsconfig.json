@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["es2015", "DOM"],
+    "target": "ES6",
+    "outFile": "../../../templates/scripts/worker.js",
+    "sourceMap": true
+  },
+  "include": ["src/worker.ts"],
+}
